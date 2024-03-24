@@ -1,0 +1,35 @@
+.job-details {
+  color: white;
+  background-color: black;
+  padding: 16px;
+}
+.skill-cont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.skill-item {
+  display: flex;
+  width: 40%;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.skill-img {
+  width: 40px;
+  height: 40px;
+  margin-right: 6px;
+}
+.company-life {
+  width: 100%;
+}
+.link-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.link {
+  display: flex;
+  align-items: center;
+}

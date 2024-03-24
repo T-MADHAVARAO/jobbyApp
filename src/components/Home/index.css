@@ -1,0 +1,10 @@
+.bg {
+  height: 100vh;
+}
+.homeBg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-sm-bg.png');
+  background-size: cover;
+  padding: 30px;
+  color: white;
+  height: 100%;
+}

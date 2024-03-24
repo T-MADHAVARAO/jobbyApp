@@ -1,0 +1,30 @@
+.jobsBg {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  background-color: black;
+  color: white;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.profile-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  border-radius: 20px;
+  background-size: cover;
+  padding: 10px;
+  color: black;
+}
+.fail-img {
+  width: 100%;
+}
+.job-err {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

@@ -1,0 +1,38 @@
+.loginBg {
+  width: 100vw;
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user-cred{
+    color:white;
+    font-size:12px;
+}
+.loginCard {
+  border-radius: 6px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: gray;
+}
+.logo {
+  width: 100px;
+  margin-bottom: 10px;
+}
+.loginBtn {
+  border-width: 0px;
+  width: 100%;
+  background-color: cornflowerblue;
+  border-radius: 8px;
+  color: white;
+  padding: 6px;
+  margin-top: 6px;
+}
+.error {
+  color: red;
+}
